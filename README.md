@@ -28,7 +28,7 @@ The project includes:
 The total fat availability in Indonesia fluctuates over the years. For example, there was a decrease in 2021, possibly related to changes in consumption or supply chain disruption during the pandemic.
 
 # Output
-![Trend Chart](./trend_chart.png)
+![Trend Chart](./tren_lemak.png)
 
 # How to Run
 1. Open `indonesia_fat_trend_analysis.ipynb` in Google Colab
